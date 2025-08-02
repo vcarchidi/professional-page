@@ -1,4 +1,4 @@
----
+
 title: "Rescuing Mind from the Machines"
 collection: publications
 category: manuscripts
