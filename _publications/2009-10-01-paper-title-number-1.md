@@ -2,7 +2,7 @@
 title: "Rescuing Mind from the Machines"
 collection: publications
 category: manuscripts
-permalink: [/publication/2009-10-01-paper-title-number-1](https://www.google.com/url?q=https%3A%2F%2Fphilosophynow.org%2Fissues%2F168%2FRescuing_Mind_from_the_Machines&sa=D)
+permalink: "vcarchidi.github.io/publications"
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025
 venue: 'Philosophy Now'
